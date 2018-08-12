@@ -1,6 +1,7 @@
 # Data-Capstone-2
 
 This repository address the Home Credit Default Risk Kaggle Competition: https://www.kaggle.com/c/home-credit-default-risk
+
 Please down the raw data from there if you would like to run the code found in the notebooks.
 
 The repository contains multiple submissions for the reports to reflect 3 sets of submissions (Milestone 1, Milestone 2, and Final).
